@@ -1,7 +1,6 @@
 PRODUCT_PACKAGES += \
     OnePlusCamera \
     OnePlusCameraService \
-    oneplus-framework-res \
     OnePlusGallery
 
 PRODUCT_COPY_FILES += \
